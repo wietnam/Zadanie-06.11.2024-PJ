@@ -1,0 +1,35 @@
+.app {
+  text-align: center;
+}
+
+.pasek-wyszukiwania {
+  margin: 20px;
+}
+
+.lista-filmow {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.karta-filmu {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+.karta-filmu img {
+  width: 100%;
+  height: auto;
+}
+
+.szczegoly-filmu {
+  margin: 20px;
+}
+
+.szczegoly-filmu img {
+  width: 300px;
+  height: auto;
+}
